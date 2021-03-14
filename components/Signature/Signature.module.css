@@ -1,0 +1,13 @@
+.signature {
+  display: block;
+  font-size: 25px;
+}
+.signature_title {
+  font-size: 18px;
+  margin: 10px 0 0;
+}
+.signature_block {
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 20px;
+}

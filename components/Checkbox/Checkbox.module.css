@@ -1,0 +1,11 @@
+.signature_checkbox {
+  margin: 0 10px 10px;
+}
+.signature_checkbox:hover {
+  transform: scale(1.05);
+  color: rgb(241, 219, 20);
+}
+.input,
+.label {
+  cursor: pointer;
+}
